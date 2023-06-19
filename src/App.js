@@ -24,7 +24,7 @@ function App() {
   const [authors, setAuthors] = useState(null);
   const [loading, setLoading] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
-  const [debounced] = useDebouncedValue(searchQuery, 200);
+  const [debounced] = useDebouncedValue(searchQuery, 300);
 
   const host =
     "https://rsiprojectspring.mangomeadow-d917f613.westeurope.azurecontainerapps.io";
