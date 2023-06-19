@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/rsi-project/static/js/main.996b0ee4.js",
+    "main.js": "/rsi-project/static/js/main.911b498b.js",
     "static/js/787.c4e7f8f9.chunk.js": "/rsi-project/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/rsi-project/index.html",
-    "main.996b0ee4.js.map": "/rsi-project/static/js/main.996b0ee4.js.map",
+    "main.911b498b.js.map": "/rsi-project/static/js/main.911b498b.js.map",
     "787.c4e7f8f9.chunk.js.map": "/rsi-project/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.996b0ee4.js"
+    "static/js/main.911b498b.js"
   ]
 }
